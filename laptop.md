@@ -1,0 +1,35 @@
+<h1>Laptop</h1>
+
+<p>A laptop, often called a notebook computer or simply a notebook, is a small, portable personal computer (PC) with a "clamshell" form factor, typically having a thin LCD or LED computer screen mounted on the inside of the upper lid of the case and an alphanumeric keyboard on the inside of the lower lid. Laptops are folded shut for transportation, and thus are suitable for mobile use. They run on battery power or an external power adapter that charges the battery while also supplying power to the computer itself.</p>
+
+<p>Laptops combine all the input/output components and capabilities of a desktop computer, including the display screen, small speakers, a keyboard, hard disk drive or solid-state drive, optical disc drive pointing devices (such as a touchpad or trackpad), a processor, and memory into a single unit. Most modern laptops also feature integrated webcams and built-in microphones. For more detailed information, you can visit the <a href="https://en.wikipedia.org/wiki/Laptop">Wikipedia describing the laptop</a>.</p>
+
+<h3>Types of laptops</h3>
+
+<p>Traditional laptops are designed for general-purpose use, balancing performance, portability, and price. These are the most common type found in offices and homes, suitable for tasks like web browsing, document editing, and media consumption. They typically feature screen sizes ranging from 13 to 15 inches and offer a standard set of ports and connectivity options.</p>
+
+<p>Ultrabooks represent a category of high-end subnotebooks designed to be extremely thin and light without compromising battery life. Originating from specifications set by Intel, these devices often use low-power processors and solid-state drives to achieve a slim profile. They are ideal for business travelers and students who need a device that is easy to carry all day but still powerful enough for productivity workloads.</p>
+
+<p>Gaming laptops are specialized computers designed primarily for playing computationally demanding video games. They differ from standard laptops by including high-performance graphics cards (GPUs) and powerful processors, which often require larger cooling systems and bulkier chassis. While they sacrifice some portability and battery life compared to ultrabooks, they offer performance comparable to desktop gaming rigs.</p>
+
+<h3>Laptop hardware</h3>
+
+<p>The hardware architecture of a laptop is similar to that of a desktop computer, but the components are miniaturized and optimized for mobile use and power efficiency. Due to the limited space within the chassis, many components like the processor (CPU) and memory (RAM) may be soldered directly onto the motherboard, unlike the modular parts found in desktops. This integration helps reduce the device's thickness and weight but often restricts the ability to upgrade individual parts later.</p>
+
+<p>Thermal management is a critical aspect of laptop hardware design, as powerful components generate significant heat in a confined space. Laptops use sophisticated cooling systems involving heat pipes, heat sinks, and compact fans to dissipate heat efficiently. Modern laptops also increasingly rely on solid-state storage to improve speed and durability, as these drives are more resistant to physical shock than traditional spinning hard drives, making them safer for portable use.</p>
+
+<ol>
+  <li><a href="https://en.wikipedia.org/wiki/Central_processing_unit">Central processing unit (CPU)</a></li>
+  <li>Random-access memory (RAM)</li>
+  <li><a href="https://en.wikipedia.org/wiki/Solid-state_drive">Solid-state drive (SSD)</a></li>
+  <li>Display screen (LCD, LED, or OLED)</li>
+  <li>Battery</li>
+</ol>
+
+<h3>Top three laptop manufacturers</h3>
+
+<ul>
+  <li>Lenovo</li>
+  <li>HP (Hewlett-Packard)</li>
+  <li>Dell</li>
+</ul>
